@@ -1,0 +1,21 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+
+    background: red;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box .btn{
+
+    padding: 10px 30px;
+    cursor: pointer;
+}
